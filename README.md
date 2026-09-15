@@ -2,7 +2,7 @@
 Repository with Android releases
 
 ### ODROID-C5
-[![Latest release](https://img.shields.io/github/v/release/odroid-dev/android-releases?filter=ODROID-C5_%2A&sort=date&display_name=tag&label=Latest%20release)](https://github.com/odroid-dev/android-releases/releases/tag/ODROID-C5_UDC-R.05) | ![Downloads](https://img.shields.io/github/downloads/odroid-dev/android-releases/ODROID-C5_UDC-R.05/total?label=Downloads)
+[![Latest release](https://img.shields.io/github/v/release/odroid-dev/android-releases?filter=ODROID-C5_%2A&sort=date&display_name=tag&label=Latest%20release)](https://github.com/odroid-dev/android-releases/releases/tag/ODROID-C5_CNB-R.01) | ![Downloads](https://img.shields.io/github/downloads/odroid-dev/android-releases/ODROID-C5_CNB-R.01/total?label=Downloads)
 
 ### ODROID-M1/M1S
 [![Latest release](https://img.shields.io/github/v/release/odroid-dev/android-releases?filter=ODROID-M_%2A&sort=date&display_name=tag&label=Latest%20release)](https://github.com/odroid-dev/android-releases/releases/tag/ODROID-M_UDC-R.01) | ![Downloads](https://img.shields.io/github/downloads/odroid-dev/android-releases/ODROID-M_UDC-R.01/total?label=Downloads)
